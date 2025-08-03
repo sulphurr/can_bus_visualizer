@@ -15,9 +15,11 @@ This dashboard simulates a car’s core metrics:
 It also visualizes **RPM vs Time** in real-time 📈 and shows status alerts if temperature crosses safe thresholds.
 
 ---
-##💡 Why This Project?
-CAN Bus is the nervous system of a vehicle, enabling microcontrollers to communicate. This project helps visualize how that works — perfect for beginners learning embedded systems, vehicle diagnostics, or just Python with GUI flair!
+💡 Why This Project?
 ---
+
+
+CAN Bus is the nervous system of a vehicle, enabling microcontrollers to communicate. This project helps visualize how that works — perfect for beginners learning embedded systems, vehicle diagnostics, or just Python with GUI flair!
 
 ## 🎮 Controls
 
