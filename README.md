@@ -73,12 +73,6 @@ Use cases:
 
 ---
 
-## Real-Time Simulation Preview
-
-<p align="center">
-  <img src="demo.gif" width="600" alt="Live simulation demo"/>
-</p>
-
 ---
 
 ## Getting Started
